@@ -18,7 +18,7 @@ My name is Nicolas Bueno, currently I'm studing Analise E Desenvolvimento de Sis
 
 
 ### 📚 Stunding // Learning 
-- ![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white) C
+- ![C](https://img.shields.io/badge/C-800080?style=flat-square&logo=c&logoColor=white)
 
 
 
