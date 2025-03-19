@@ -3,7 +3,7 @@
 # 😉 About Me
 
 Welcome to my profile!
-My name is Nicolas Bueno, currently I'm studing Analise E Desenvolvimento de Sistemas, I'm constantly improving my skills and I trying to do my better in everything I do.
+My name is Nicolas Bueno, currently I'm studying Analise E Desenvolvimento de Sistemas, I'm constantly improving my skills and I trying to do my better in everything I do.
 
 
 ## 🚀 technologies
